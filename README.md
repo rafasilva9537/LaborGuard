@@ -1,2 +1,2 @@
 # WorkforceScheduler
-Backend system designed to orchestrate shift assignments and enforce workforce rules (rest periods, overtime limits) using Clean Architecture.
+.NET 10 API using Clean Architecture, designed to ingest and validate employee schedule csv data. Enforces labor rules (11h rest periods, 40h weekly caps), avoiding persisting non-compliant data.
